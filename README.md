@@ -10,7 +10,9 @@
 I'm a computer science and engineering enthusiast with a passion for machine learning, optimization algorithms, and web technologies. I completed my studies at Pattimura University, Indonesia, and had the opportunity to spend one semester at the University of Padova through the IISMA program. My research explores stochastic optimization in CNN-based emotion classification from audio, and I have experience working with HTML, Python, and SQL. Always eager to learn and collaborate on exciting projects in AI, data science, and software development! 🚀 <br>
 
   <p aligns="left">
-  
+      <a href="linkedin.com/in/aldelia-jocelyn-tutuhatunewa-589b39210">
+         <img alt="linkedin account" title="Connect with me!" src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23C13584&color=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Faldelia_joe%3Figsh%3DMW5icXkyd3lxc3luMQ%3D%3D%20
+"/></a> 
     
   </p>
       
