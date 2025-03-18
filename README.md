@@ -35,7 +35,7 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
 
 #
 
-<details open>
+<details>
   <summary><h2>📃 My projects</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -50,7 +50,7 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
     <a href="">
       <img width="278" ></a>
   </p>
-
+</details>
 
 #
 
@@ -88,7 +88,6 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
+</details>
 
 
