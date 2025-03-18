@@ -16,7 +16,7 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
       <a href="https://www.facebook.com/aldelia.joe">
         <img alt="Facebook account" title="Be my friend?" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto&labelColor=%230866FF&color=%231C3664&link=https%3A%2F%2Fwww.facebook.com%2Faldelia.joe"></a>
       <a href="aldeliajoe@gmail.com">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=google&logoColor=white&logoSize=auto&labelColor=%23DB4437&color=%23710C04&link=https%3A%2F%2Fwww.facebook.com%2Faldelia.joe"></a>
+        <img alt="google acc" title="Email me here" src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=google&logoColor=white&logoSize=auto&labelColor=%23DB4437&color=%23710C04&link=https%3A%2F%2Fwww.facebook.com%2Faldelia.joe"></a>
 
     
 
