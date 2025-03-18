@@ -36,11 +36,18 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
 #
 
 ### My projects 📃
+<div style="border: 2px dashed rgba(166,166,166,0.85); border-radius: 12px; padding: 10px; background-color: #f8f9fa;">
+  <p>This is a greyish rounded box with a dashed border!</p>
+</div>
+
+
 
 #
 
-### My Duolingo Streak 🔥
+<!--### My Duolingo Streak 🔥
 
-![Duolingo Streak](https://duolingo-streak.shield.io/?username=AldeliaJoe)
+![Duolingo Streak](https://duolingo-streak.shield.io/?username=AldeliaJoe)-->
+
+
 
 
