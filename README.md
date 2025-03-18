@@ -17,8 +17,23 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
         <img alt="Facebook account" title="Be my friend?" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto&labelColor=%230866FF&color=%231C3664&link=https%3A%2F%2Fwww.facebook.com%2Faldelia.joe"></a>
       <a href="mailto:aldeliajoe@gmail.com?subject=Hello%20There&body=I%20would%20like%20to%20connect%20with%20you.">
         <img alt="google acc" title="Email me here" src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=google&logoColor=white&logoSize=auto&labelColor=%23DB4437&color=%23710C04&link=https%3A%2F%2Fwww.facebook.com%2Faldelia.joe"></a>
-
-    
-
   </p>
-      
+
+##
+
+### Languages and Tools🔎
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### My projects 📃
+
