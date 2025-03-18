@@ -37,3 +37,10 @@ I'm a computer science and engineering enthusiast with a passion for machine lea
 
 ### My projects 📃
 
+#
+
+### My Duolingo Streak 🔥
+
+![Duolingo Streak](https://duolingo-streak.shield.io/?username=AldeliaJoe)
+
+
